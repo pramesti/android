@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Warna2</string>
+    <string name="btnexit">Exit</string>
+    <string name="txtwarna">Warna yang dipilih</string>
+</resources>

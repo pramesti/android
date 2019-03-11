@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="app_name">RadioColor</string>-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="backBlue">#0000ff</color>
+    <color name="backRed">#ff0000</color>
+    <color name="backGreen">#00ff00</color>
+    <color name="backWhite">#ffffff</color>
+    <color name="backDark">#000000</color>
+    <color name="backPink">#ff4081</color>
+    <color name="backCayon">#2fffff</color>
+    <color name="backYellow">#ffff81</color>
+</resources>
